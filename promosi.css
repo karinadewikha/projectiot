@@ -1,0 +1,125 @@
+
+/*jumbotron*/
+.jumbotron {
+	background-image: url(img/stretched-1366-768-843016.jpg);
+	background-size: cover;
+	height : 770px;
+	text-align: center;
+	margin-top: -120px;
+}
+.jumbotron .display-4 {
+	color: white;
+	margin-top: 200px;
+}
+.jumbotron p {
+	color: white;
+	font-size: 25px;
+}
+.jumbotron hr {
+	border-color: #F05F40;
+	width: 70px
+	border-width: 3px;
+}
+.jumbotron .btn {
+	background-color: #F05F40;
+	border:none;
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 40px;
+}
+
+/*png*/
+.card-title1 {
+	text-align: center;
+	color: #ff9966;
+	font-family: Poppins, Sans-serif;
+	font-size: 25px;
+}
+
+.card {
+	width: 1000px;
+	margin-left: 0px;
+	margin-right: 0px;
+	border-style: none;
+}
+
+.card1 {
+	width : 150px;
+	height: 200px;
+}
+
+.card2 {
+	width : 120px;
+	height: 150px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+/*ourcollect*/
+.card9 {
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+}
+
+.card-body{
+	text-align: center;
+	font-family: "Roboto", Sans-serif;
+}
+
+/*button*/
+.container1{
+	box-sizing: 500px;
+	padding-left: 300px;
+}
+
+.card-body9 {
+	text-align: center;
+	font-family: "Roboto", Sans-serif;
+	color :#b37700;
+}
+
+.card-title9 {
+	font-family: "Roboto", Sans-serif;
+	font-size: 45px
+}
+
+.card-img3{
+	height: 400px;
+}
+
+.button {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.text-center {
+	color : #330000;
+	text-align: right;
+	font-family: Poppins, Sans-serif;
+}
+
+/*footer*/
+.kontak {
+	font-family: "Roboto", Sans-serif;
+	font-size: 15px;
+	text-align: left;
+	color : black;
+}
+
+.googlemaps {
+	float: right;
+	padding-right: 50px;
+}
+
+li {
+				display:inline;
+				padding:5px;
+			}
+			li a{
+				display:inline-block;
+				text-decoration:none;
+			}
+			li a:hover{
+				background-color:none;
+				padding:5px;
+			}

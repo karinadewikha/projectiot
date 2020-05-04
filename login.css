@@ -1,0 +1,32 @@
+
+.container {
+	width: 30%;
+	margin-top: 9%;
+	margin-bottom: 5%;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.1);
+	padding: 40px;
+	background: url('img/login.jpg');
+}
+
+.text-center {
+	color: white;
+	font-family: "Roboto", Sans-serif;
+}
+
+.form-group {
+	color: white;
+	font-family: "Roboto", Sans-serif;
+}
+
+button {
+	width :50%;
+}
+
+p {
+	color : white;
+	text-align: center;
+}
+
+a {
+	color :white;
+}
